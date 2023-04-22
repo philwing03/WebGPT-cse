@@ -1,4 +1,4 @@
-console.log('search-api');
+console.log('search-api'); 
 
 
 function sleep(ms) {
@@ -8,7 +8,7 @@ function sleep(ms) {
 }
 
 
-window.addEventListener("DOMContentLoaded", (event) => {
+window.addEventListener("DOMContentLoaded", (event) => { 
 
 
   addEventListener("message", async (event) => {
